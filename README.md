@@ -21,7 +21,7 @@ Hey there! 👋 Welcome to the Simple Contribution repo. This project is designe
 ```bash
 cd simple-contribution
 ```
-4. Open the cardDetails.json file in your favorite code editor.
+4. Open the cards.json file in your favorite code editor.
 5. Add your details (name, profession, quote, and social links) following the format:
 ```bash
 {
